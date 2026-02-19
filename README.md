@@ -79,7 +79,15 @@ For more details, see [ARCHITECTURE.md](docs/ARCHITECTURE.md).
     ```
 
 ## 📸 Screenshots
-*(Add screenshots here)*
+
+<p align="center">
+  <img src="assets/screenchot/beranda.jpeg" width="400" alt="Beranda Screen">
+  <img src="assets/screenchot/booking.jpeg" width="400" alt="Booking Screen">
+</p>
+<p align="center">
+  <img src="assets/screenchot/jadwal.jpeg" width="400" alt="Jadwal Screen">
+  <img src="assets/screenchot/layanan.jpeg" width="400" alt="Layanan Screen">
+</p>
 
 ## 📄 License
 This project is for private use only. See `pubspec.yaml` for more information.
